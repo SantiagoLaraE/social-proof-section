@@ -157,6 +157,7 @@ body{
     .buyers{
         flex-direction: row;
         align-items: flex-start;
+        gap: 3.2rem;
     }
     .buyer:nth-child(2){
         margin-bottom: auto;
